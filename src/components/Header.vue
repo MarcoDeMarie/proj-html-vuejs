@@ -1,12 +1,23 @@
 <script>
-export default {
-  name: 'Header'
 
+import Navbar from './partials/header/Navbar.vue'
+import Jumbotron from './partials/header/Jumbotron.vue'
+
+export default {
+  name: 'Header',
+  components:{
+      Jumbotron,
+      Navbar,
+      
+  }
 }
 </script>
 
 
 <template>
+
+<Navbar />
+<Jumbotron />
   
 
 </template>
