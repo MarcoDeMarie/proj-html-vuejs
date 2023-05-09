@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'Navbar'
+  name: 'Infobar'
 
 }
 </script>
@@ -8,7 +8,6 @@ export default {
 
 <template>
   <header>
-
     <div class="info-bar container">
       <div class="orari">
         <p><i class="fa-solid fa-clock"></i>Open Hours: Mon - Sat - 9:00 - 18:00</p>
