@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@fontsource/montserrat": "^4.5.14",
+    "swiper": "^9.3.0",
     "vue": "^3.2.47"
   },
   "devDependencies": {
