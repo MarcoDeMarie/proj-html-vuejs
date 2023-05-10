@@ -86,10 +86,7 @@ button {
   border-radius: 8px;
   font-size: 19px;
 }
-.watergreen {
-  color: #12a6a7;
-  font-weight: bold;
-}
+
 
 .card-wrapper {
   display: flex;
